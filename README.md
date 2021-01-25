@@ -1,2 +1,1 @@
-# issuetracker
-이슈 트래커
+# Issues 탭으로 가주세요.
